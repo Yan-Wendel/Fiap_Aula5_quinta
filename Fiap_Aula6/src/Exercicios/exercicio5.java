@@ -26,5 +26,5 @@ public class exercicio5 {
 		}
 		System.out.print("Resultado: "+ resultado);
 	}
-
+//alteração
 }
